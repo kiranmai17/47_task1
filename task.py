@@ -2,7 +2,7 @@
 date:6th dec 2022
 day:tuesday
 topic:task
-author:rama bhargavi
+author:kiranmai
 """
 #display 1 to 110
 for i in range(100,111):
